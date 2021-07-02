@@ -1,1 +1,2 @@
-# Retinal-Damarlarin Ortusturulmesi
+# KARADENİZ TEKNİK ÜNİVERSİTESİ BİLGİSAYAR MÜHENDİSLİĞİ BİTİRME PROJESİ
+# PYTHON GÖRÜNTÜ İŞLEME İLE "RETİNAL DAMARLARIN EŞLEŞTİRİLMESİ" 
